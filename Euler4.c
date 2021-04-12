@@ -23,8 +23,7 @@ int main()
                     break;
                 }
             }
-            /*
-            else if (number > biggestPalindrome && number < 100000);
+            else if (number > biggestPalindrome && number < 100000)
             {
                 sprintf(temp, "%d", number);
                 if (temp[0] == temp[4] && temp[1] == temp[3])
@@ -35,7 +34,6 @@ int main()
                     break;
                 }
             }
-            */
         }
     }
 
